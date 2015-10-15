@@ -38,14 +38,14 @@ module.exports = function () {
 //                port: 587,
 //                auth: {
 //                    user: 'manish@excellencetechnologies.in',
-//                    pass: 'Ca4nS3QStEcpvZdk9iMh0Q'
+//                    pass: ''
 //                }
 
                 host: 'smtp.sendgrid.net',
                 port: 587,
                 auth: {
                     user: 'manish_iitg',
-                    pass: 'java@123'
+                    pass: ''
                 }
 
             }));
